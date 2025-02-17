@@ -12,8 +12,8 @@ genai.configure(api_key=os.getenv('GOOGLE_API_KEY'))
 # Set up Streamlit page configuration
 st.set_page_config(page_title="Crisbee Chat Bot", page_icon="🤡")
 
-# Set the correct path for the logo
-logo_path = "D:\Red\Desktop\generative ai projects\my-text-chat-bot\logo1.png"
+# Set the correct path for the logo(Your path)
+logo_path = "logo1.png"
 
 # Display Logo
 st.image(logo_path, width=90)
