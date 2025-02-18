@@ -3,7 +3,7 @@ import os
 import streamlit as st
 import google.generativeai as genai
 
-# Load environment variables
+# Load environment variables_
 load_dotenv()   
 
 # Configure API key
