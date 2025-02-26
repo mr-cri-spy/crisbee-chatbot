@@ -18,7 +18,7 @@ logo_path = "logo1.png"
 # Display Logo
 st.image(logo_path, width=90)
 
-# Custom CSS for Modern UI
+# Custom CSS for Modern U I
 st.markdown(
     """
     <style>
