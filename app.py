@@ -2,6 +2,8 @@
 
 
 
+
+
 from dotenv import load_dotenv
 import os
 import streamlit as st
@@ -61,6 +63,7 @@ if st.button("Submit"):
     # Display Response
     st.markdown("<h3 style='color: white;'>Bot's Response:</h3>", unsafe_allow_html=True)
     st.write(response.text)
+
 
 
 
