@@ -1,6 +1,7 @@
 streamlit
 google-generativeai
 python-dotenv
+numpy==3.0
 
 
 
