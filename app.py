@@ -3,6 +3,7 @@
 
 
 from dotenv import load_dotenv
+import numpy
 import os
 import streamlit as st
 import google.generativeai as genai
